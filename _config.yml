@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "https://Luh2001.github.io"
-baseurl: "/yeziye"
+baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://Luh2001.github.io/yeziye/gallery/"  
-  - JOURNAL: "https://Luh2001.github.io/yeziye/journal/"
-  - ABOUT: "https://Luh2001.github.io/yeziye/about/"
+  - GALLERY: "https://Luh2001.github.io/photorama/gallery/"  
+  - JOURNAL: "https://Luh2001.github.io/photorama/journal/"
+  - ABOUT: "https://Luh2001.github.io/photorama/about/"
 
 # All translation keys
 translations:
