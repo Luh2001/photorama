@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://Luh2001.github.io/photorama/gallery/"  
-  - JOURNAL: "https://Luh2001.github.io/photorama/journal/"
+  - #JOURNAL: "https://Luh2001.github.io/photorama/journal/"
   - ABOUT: "https://Luh2001.github.io/photorama/about/"
 
 # All translation keys
